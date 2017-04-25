@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [browserify (v14.3.0)](https://github.com/substack/node-browserify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify)",
+    "description": "#### basic test coverage for  [browserify (v14.3.0)](https://github.com/substack/node-browserify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify)",
     "devDependencies": {
         "browserify": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

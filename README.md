@@ -1,6 +1,6 @@
 # npmtest-browserify
 
-#### test coverage for  [browserify (v14.3.0)](https://github.com/substack/node-browserify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify)
+#### basic test coverage for  [browserify (v14.3.0)](https://github.com/substack/node-browserify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify)
 
 #### browser-side require() the node way
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-browserify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-browserify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-browserify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-browserify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-browserify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-browserify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-browserify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-browserify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-browserify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-browserify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-browserify/build/coverage.html/index.html)
 
